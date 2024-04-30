@@ -1,0 +1,73 @@
+nav{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 23px;
+    font-weight:900 !important;
+}
+.form1{
+    width: 20vw;
+    border-radius: 23px;
+    text-indent: 23px;
+    background-color: rgba(255, 255, 255, 0.967);
+}
+.a2{
+    font-size: 34px;
+    color:rgb(40, 38, 38);
+    text-shadow: 2px 0px 2px rgb(232, 230, 229);
+    transition: 0.3s;
+    cursor: pointer;
+    display: block;
+}
+.pills{
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    color:rgb(248, 248, 248);
+    font-weight: bolder;
+    padding: 2px !important;
+    font-size: 18px;
+    border-radius: 50%;
+    top:0;
+    align-items: center;
+}
+.a2:hover{
+    transition: 0.5s;
+    color: white;
+    text-shadow: 2px 0px 2px rgb(231, 150, 80);
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+}
+.btn1{
+    background-color: white;
+    border: 0px;
+    display: flex;
+    transition: 0.4s;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+    border-radius: 50%;
+}
+.navbara1{
+    background-color: white;
+    color:black;
+}
+.btn22{
+    border:0px;
+    background-color: white;
+    color:black;
+    border-radius: 50%;
+}
+.btn1:hover{
+    transition: 0.5s;
+    background:linear-gradient(60deg,rgba(255, 129, 4, 0.527),rgb(229, 220, 230));
+    border-radius: 50%;
+}
+.dark{
+    background-color: rgb(28, 27, 27) !important;
+    color:rgb(255, 255, 255) !important;
+    transition: 0.9s;
+}
+.just{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+}
